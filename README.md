@@ -4,6 +4,8 @@ InvoiceGuard AI is an AI-powered invoice and expense analyzer built using Python
 
 It allows users to upload an invoice or receipt image, extracts important information using Gemini Vision, and performs automated expense checks.
 
+Deployed Link: https://harika-adepu-invoice-guard-app-dd3rda.streamlit.app/
+
 ## 🚀 Features
 
 - Upload invoice or receipt images
