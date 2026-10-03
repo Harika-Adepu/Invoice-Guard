@@ -796,10 +796,7 @@ if st.button("📲 Send Report to WhatsApp"):
                     from_number=twilio_whatsapp_number,
                     to_number=whatsapp_to,
                     content_sid=st.secrets["TWILIO_CONTENT_SID"],
-                    variables={
-                        "1": result["date"],
-                        "2": "10:00 AM"
-                    }
+                    variables={}
                 )
 
 
